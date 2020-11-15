@@ -16,9 +16,9 @@ Our project aim is to help citizen association digitalized their database, socia
 
 
 ## Features ##
--[  ] manajemen RW
--[  ] Database Center
--[  ] LaporRW
--[  ] JualBeli
--[  ] PanicButton
--[  ] Digitalisasi Dokumen
+- [  ]manajemen RW
+- [  ]Database Center
+- [  ]LaporRW
+- [  ]JualBeli
+- [  ]PanicButton
+- [  ]Digitalisasi Dokumen
